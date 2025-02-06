@@ -1,4 +1,4 @@
-🏢 Job Seeker App – MEAN Stack
+## 🏢 Job Seeker App – MEAN Stack
 
 Welcome to the Job Seeker App, a full-stack job application platform built using the MEAN (MongoDB, Express.js, Angular, Node.js) stack. This application enables job seekers to find job listings, apply for jobs, and manage their profiles, while employers can post job opportunities and track applicants.
 
